@@ -1,0 +1,4 @@
+pandas>=2.0.0
+numpy>=1.24.0
+mysql-connector-python>=8.0.0
+google-genai>=0.1.0
