@@ -48,12 +48,13 @@ Key Analytical Findings & SQL Insights
 
 
 
+# Repository Structure
 
-Repository Structure
-
-├── Credit Card Data Cleaned.csv      # Cleaned and processed multi-sheet dataset
+```text
+├── Credit Card Data Cleaned.csv      # Cleaned and processed dataset
 ├── Credit Card Data.csv              # Raw, uncleaned source dataset
 ├── JUPYTERCreditCardData.ipynb       # Python data cleaning and inspection script
 ├── SQLScriptCreditCardProject.sql    # Complete MySQL schema creation and 30-step EDA queries
 ├── index.html                        # Interactive front-end analytics dashboard
 └── README.md                         # Project documentation
+```
